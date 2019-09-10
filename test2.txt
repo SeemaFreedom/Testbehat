@@ -3,5 +3,6 @@ feature:Ls command
 scenario: when ls clicked
 
 might be branch
+mb branch
 
 test test
